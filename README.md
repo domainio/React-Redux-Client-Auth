@@ -16,8 +16,8 @@ Client side authentication app via sticky token verification
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone
-	> cd
+	> git clone https://github.com/domainio/ReactReduxClientAuth.git
+	> cd ReactReduxClientAuth
 	> npm install
 	> npm start
 ```
