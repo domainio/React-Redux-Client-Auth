@@ -7,7 +7,7 @@ Client side authentication app via sticky token verification
 * __React HOC (high order components)__
 * __Redux: actions, reducers__
 * __Redux Thunk (middleware)__
-* __Redux Form: form validation
+* __Redux Form: form validation__
 * __HTTP requests to node.js server side__
 
 
@@ -22,4 +22,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 
-####Get the server side app [here]()####
+####Get the server side app [here](https://github.com/domainio/NodeJSServerAuth)####
